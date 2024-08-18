@@ -1,0 +1,20 @@
+{
+                        "posts": [
+                          { "id": 1, "title": "json-server1", "author": "typicode1", "body": "post 1 body", "image": "./asset/6.jpg" },
+                          { "id": 2, "title": "json-server2", "author": "typicode2", "body": "post 2 body", "image": "./asset/3.jpg" },
+                          { "id": 3, "title": "json-server3", "author": "typicode3", "body": "post 3 body", "image": "./asset/4.jpg" },
+                          { "id": 4, "title": "json-server4", "author": "typicode4", "body": "post 4 body", "image": "./asset/5.jpg" }
+                        ],
+                        "comments": [
+                          { "id": 1, "body": "some comment1", "postId": 1 },
+                          { "id": 2, "body": "some comment2", "postId": 1 },
+                          { "id": 3, "body": "some comment3", "postId": 1 },
+                          { "id": 4, "body": "some comment4", "postId": 2 },
+                          { "id": 5, "body": "some comment5", "postId": 2 },
+                          { "id": 6, "body": "some comment6", "postId": 3 },
+                          { "id": 7, "body": "some comment7", "postId": 3 },
+                          { "id": 8, "body": "some comment8", "postId": 4 },
+                          { "id": 9, "body": "some comment9", "postId": 4 }
+                        ],
+                        "profile": { "name": "typicode" }
+                      }
